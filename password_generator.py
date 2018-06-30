@@ -3,6 +3,7 @@
 # Assignment: Final Exam Practical problem #1
 
 #PseudoCode
+#Import Random
 # An input for the user to tell me how many characters
 #A place holder for the password (empty list)
 #a sequence of all capital letters
